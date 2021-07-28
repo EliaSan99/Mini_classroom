@@ -1,2 +1,2 @@
 # Mini_classroom
-Etapas del proyecto Cassroom Abel
+Etapas del proyecto Classroom Abel
